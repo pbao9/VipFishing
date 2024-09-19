@@ -1,0 +1,1 @@
+<input type="{{ $type }}" {{ $attributes->class(['form-control'])->merge($isRequired()) }} />

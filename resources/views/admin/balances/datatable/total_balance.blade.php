@@ -1,0 +1,1 @@
+{{ number_format($total_balance, 0, ',', '.') }} VNĐ

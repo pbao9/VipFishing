@@ -1,0 +1,1 @@
+<x-link :href="route('admin.banks.edit', $id)" :title="$name"/>

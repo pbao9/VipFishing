@@ -1,0 +1,1 @@
+{{ number_format($collect_fish_price) }} VNĐ

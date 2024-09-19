@@ -1,0 +1,1 @@
+{{ number_format($reward_value, 0, ',', '.') }} VNĐ

@@ -1,0 +1,1 @@
+<x-link :href="route('admin.closeLakes.edit', $id)" :title="$id"/>

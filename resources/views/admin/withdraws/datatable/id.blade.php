@@ -1,0 +1,1 @@
+<x-link :href="route('admin.withdraws.edit', $id)" :title="$id"/>

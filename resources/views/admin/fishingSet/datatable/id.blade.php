@@ -1,0 +1,1 @@
+<x-link :href="route('admin.fishingSet.edit', $id)" :title="$id"/>

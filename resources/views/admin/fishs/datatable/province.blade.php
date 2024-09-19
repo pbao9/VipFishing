@@ -1,0 +1,2 @@
+
+{{ $provinces['name'] ?? '' }}

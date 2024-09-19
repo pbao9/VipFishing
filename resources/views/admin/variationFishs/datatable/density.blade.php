@@ -1,0 +1,1 @@
+<x-link :href="route('admin.fishs.item.edit', $id)" :title="$fish_density. ' kg/m2'"/>

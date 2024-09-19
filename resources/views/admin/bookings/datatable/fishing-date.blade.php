@@ -1,0 +1,1 @@
+{{ \Carbon\Carbon::parse($fishing_date)->format('m-d-Y') }}

@@ -1,0 +1,1 @@
+<x-link :href="route('admin.notifications.edit', $id)" :title="$id"/>

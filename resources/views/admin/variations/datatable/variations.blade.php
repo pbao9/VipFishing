@@ -1,0 +1,1 @@
+<x-link :href="route('admin.attribute.variation.index', $id)" :title="__('Cấu hình các biến thể')" />

@@ -1,0 +1,17 @@
+{
+    "processing": "Đang tải...",
+    "emptyTable": "Không có dữ liệu nào !",
+    "info": "Hiển thị _START_ đến _END_ trong số _TOTAL_ mục nhập",
+    "infoEmpty": "Hiển thị 0 đến 0 trong số 0 mục nhập",
+    "infoFiltered": "(Có _TOTAL_ kết quả được tìm thấy)",
+    "lengthMenu": "Hiển thị _MENU_ bản ghi",
+    "search": "Tìm kiếm",
+    "searchPlaceholder": "Tìm kiếm",
+    "zeroRecords": "Không có bản ghi nào tìm thấy !",
+    "paginate": {
+        "first": "First",
+        "last": "Last",
+        "next": "<i class='ti ti-chevrons-right'></i>",
+        "previous": "<i class='ti ti-chevrons-left'></i>"
+    }
+}

@@ -1,0 +1,1 @@
+{{ $area }}m<sup>2</sup>

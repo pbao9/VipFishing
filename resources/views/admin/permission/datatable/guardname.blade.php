@@ -1,0 +1,1 @@
+{{  ( $guard_name == 'admin' )?'Admin':'Thành viên trên Web' }}
